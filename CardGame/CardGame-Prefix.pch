@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CardGame' target in the 'CardGame' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
