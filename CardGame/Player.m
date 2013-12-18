@@ -2,7 +2,6 @@
 //  Player.m
 //  Briscola
 //
-//  Created by Danny Deng on 4/22/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
